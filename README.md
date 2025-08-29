@@ -22,7 +22,7 @@
 
 - [Google Таблица с тестовыми данными](https://docs.google.com/spreadsheets/d/1d72VYZ3SsYvjfElSppnKNA2PSymeO9M27TAZPKBXSm8/edit?gid=1618612150#gid=1618612150)
 
-### Фильтрация и сортировка
+## Фильтрация и сортировка
 -Выполнено задание по технике Pairwise.
     - Исключена фильтрация по min/max цене
 - Используемые параметры:  
