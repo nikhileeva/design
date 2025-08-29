@@ -35,4 +35,4 @@ Google-таблица состоит из двух вкладок:
 1. Исходные данные (параметры и их значения)  
 2. Тестируемые данные (результат генерации Pairwise)  
 
-[Ссылка на таблицу]((https://docs.google.com/spreadsheets/d/1rS8s_FXggnKQe0Bet6qoBt37Z2-D_uDGaP5_HfJPJAA/edit?gid=1277893478#gid=1277893478))
+[Ссылка на таблицу](https://docs.google.com/spreadsheets/d/1rS8s_FXggnKQe0Bet6qoBt37Z2-D_uDGaP5_HfJPJAA/edit?gid=1277893478#gid=1277893478)
