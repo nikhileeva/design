@@ -44,7 +44,7 @@
 В рамках домашнего задания по техникам тест-дизайна была составлена таблица принятия решений для проверки работы модуля оплаты **Paypal**.  
 В таблице отражены возможные комбинации статуса аккаунта и доступного баланса, а также результат транзакции.
 
-[Google Таблица с таблицей принятия решений]([https://docs.google.com/spreadsheets/d/1cggda3bgfwgsmtID_TWduAF2zIjh1J_c-0Lya7BYXqQ/edit?gid=0#gid=0])
+[Google Таблица с таблицей принятия решений](https://docs.google.com/spreadsheets/d/1cggda3bgfwgsmtID_TWduAF2zIjh1J_c-0Lya7BYXqQ/edit?gid=0#gid=0])
 
 
 
