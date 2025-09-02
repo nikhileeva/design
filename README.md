@@ -45,8 +45,7 @@
 В таблице отражены возможные комбинации статуса аккаунта и доступного баланса, а также результат транзакции.
 ## Decision Table — Paypal
 
-- [Google Таблица [decision_table_paypal.xlsx]((https://docs.google.com/spreadsheets/d/1cggda3bgfwgsmtID_TWduAF2zIjh1J_c-0Lya7BYXqQ/edit?gid=0#gid=0))
-
+[Ссылка на таблицу](https://docs.google.com/spreadsheets/d/1cggda3bgfwgsmtID_TWduAF2zIjh1J_c-0Lya7BYXqQ/edit?gid=0#gid=0)
 
 
 
